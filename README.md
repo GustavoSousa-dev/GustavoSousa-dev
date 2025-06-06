@@ -20,7 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-sqlserver-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![.Net](https://img.shields.io/badge/-.Net-0D1117?style=for-the-badge&logo=dotnet&logoColor=purple&labelColor=0D1117)&nbsp; 
+![.Net](https://img.shields.io/badge/-.Net-0D1117?style=for-the-badge&logo=dotnet&logoColor=purple&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
